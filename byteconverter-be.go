@@ -11,10 +11,9 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-
 //The package go-byte-converter provides dead simple interfaces to convert byte array representation of data back into its original datatype.
 
-package go-byte-converter
+package byteconverter
 
 //LittleEndian binary converter
 import (

@@ -14,9 +14,9 @@
 
 //The package go-byte-converter provides dead simple interfaces to convert byte array representation of data back into its original datatype.
 
-package go-byte-converter
+package byteconverter
 
-//LittleEndian binary converter
+//BigEndian binary converter
 import (
 	"bytes"
 	"encoding/binary"
