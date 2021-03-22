@@ -1,5 +1,7 @@
 # go-byte-converter
 
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=for-the-badge)](https://pkg.go.dev/github.com/miathedev/go-byteconverter)
+
 Dead simple conversion between byte arrays and all common data types. Useful for raw IoT payloads.
 
 ## Supported Datatypes
