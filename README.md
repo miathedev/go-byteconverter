@@ -23,6 +23,10 @@ Dead simple conversion between byte arrays and all common data types. Useful for
 - float64 (untested)
 - float32
 
+### string
+
+- byte of ascii elements
+
 ## Why did you create this library/module?
 
 Because im lazy. Ive got some TheThingsNetwork IoT nodes that send me raw mimimum data (to save bandwith over LoRa). I have to convert all data back myself (because the payload format feature from ttn is not powerful enough). I had to do this in many projects. Thats why this library has been born.
